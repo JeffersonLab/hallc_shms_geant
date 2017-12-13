@@ -36,11 +36,11 @@ Outputs
 -------
 ntuples and histograms of selected quantities for sensitive detectors are stored in rootfiles.
  - ntuples (step by step information) - 
- -- local and global position of the hits (cm), 
- -- initial kinetic energy(MeV), 
- -- final kinetic energy(MeV), 
- -- energy deposition (MeV), 
- -- particle ID and parent ID 
+  - local and global position of the hits (cm), 
+  - initial kinetic energy(MeV), 
+  - final kinetic energy(MeV), 
+  - energy deposition (MeV), 
+  - particle ID and parent ID 
  - histograms (event by event information) energy deposited in the volume (MeV)
 
 
